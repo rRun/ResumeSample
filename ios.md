@@ -1,4 +1,4 @@
-# iOS程序员简历模板
+# 何霞雨的简历
 
 本简历模板由国内首家互联网人才拍卖网站「 [JobDeer.com](http://www.jobdeer.com) 」提供。
 
@@ -38,16 +38,16 @@
 
 # 个人信息
 
- - 胶布帝/男/1990 
- - 本科/萌鹿大学计算机系 
- - 工作年限：3年
+ - 何霞雨/男/1990 
+ - 本科/西南石油大学
+ - 工作年限：4年
  - 微博：[@JobDeer](http://weibo.com/jobdeer) （``` 如果没有技术相关内容，也可以不放 ```）
  - 技术博客：http://blog.github.io ( ``` 使用GitHub Host的Big较高 ```  )
  - Github：http://github.com/geekcompany ( ``` 有原创repo的Github帐号会极大的提升你的个人品牌 ```  )
 
  - 期望职位：iOS高级程序员，应用架构师
  - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
- - 期望城市：北京
+ - 期望城市：成都
 
 ---
 
@@ -134,77 +134,8 @@
 - ui(153)
 - http(138)
 - mac(83)
-- tcp(83)
-- socket(81)
-- store(69)
-- xml(58)
-- cocoa(58)
-- json(51)
-- appstore(49)
-- os(47)
-- api(36)
-- android(36)
-- interface(31)
-- web(30)
-- builder(29)
-- java(27)
-- touch(25)
-- instruments(22)
-- github(22)
-- mvc(20)
-- oop(18)
-- html5(18)
-- im(18)
-- lbs(17)
-- ue(17)
-- bug(17)
-- cocos2d(16)
-- sqlite(16)
-- gui(16)
-- uikit(16)
-- ipod(15)
-- macos(15)
-- udp(15)
-- ood(13)
-- linux(12)
-- macosx(11)
-- gcd(11)
-- coredata(10)
-- code review(10)
-- shark(10)
-- runtime(9)
-- itunes(9)
-- storyboard(8)
-- opengl(8)
-- ndk(8)
-- unix(7)
-- js(7)
-- mysql(7)
-- html(7)
-- swift(7)
-- javascript(6)
-- stackoverflow(6)
-- design(6)
-- apns(6)
-- xmpp(6)
-- autolayout(5)
-- ib(5)
-- restful(5)
-- osx(5)
-- scrum(5)
-- gt(5)
-- sql(5)
-- j2ee(5)
-- wifi(5)
-- ux(5)
-- oracle(4)
-- 3g(4)
-- agent(4)
-
-
-
 
 ---
 
 # 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
+期待能够得到同您面谈/面试的机会。
